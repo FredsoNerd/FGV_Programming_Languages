@@ -1,1 +1,4 @@
-FredsonFrdsonFredsonFredson
+
+	mais_frq_wrd: [('de', 87), ('que', 75), ('e', 60), ('a', 58), ('o', 55), ('não', 44), ('se', 40), ('para', 36), ('no', 31), ('pai', 27)]
+	citacoes: ['Nosso pai era homem cumpridor, ordeiro, positivo', 'nossa mãe não quis festa', 'Meu irmão resolveu e se foi, para uma cidade', 'Manejou remo n’água, proava para cá, concordado']
+	mais_frq_ltr: [('o', 477), ('a', 459), ('e', 406), ('s', 218), ('m', 140)]

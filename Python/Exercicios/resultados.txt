@@ -1,0 +1,7 @@
+
+
+	nomes_proprios: ['Início', 'Objetivos', 'Internacionalização', 'Avaliação Capes', 'Infraestrututura', 'Coordenação', 'Colegiado', 'Orientação', 'Agenda', 'Pessoas', 'Docentes', 'Credenciamento', 'Discentes', 'Secretaria', 'Disciplinas', 'Mestrado', 'Doutorado', 'Notícias', 'Notícias', 'Fotos', 'Vídeos', 'Serviços', 'Matrícula', 'Formulários', 'Declarações', 'Resoluções', 'Contato', 'Acesso Rápido', 'Agenda', 'Formulários', 'Corpo Docente', 'Secretaria', 'Editais', 'Matrícula', 'Avaliação Capes', 'Localização', 'Apresentação', 'Notícias', 'Acesso Rápido', 'Agenda', 'Formulários', 'Corpo Docente', 'Secretaria', 'Editais', 'Matrícula', 'Avaliação Capes', 'Localização']
+
+	mais_frequentes: [('de', 40), ('e', 18), ('da', 10), ('em', 8), ('informação', 7)]
+
+	tritongos: ['iai', 'oio']
